@@ -11,6 +11,7 @@
 		5C124A372B91BC53005250CC /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C124A362B91BC53005250CC /* ContentView.swift */; };
 		5C124A392B91BC57005250CC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5C124A382B91BC57005250CC /* Assets.xcassets */; };
 		5C124A3C2B91BC57005250CC /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5C124A3B2B91BC57005250CC /* Preview Assets.xcassets */; };
+		5CEE7F4D2B91C18200E4D3D4 /* Rhombus.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5CEE7F4C2B91C18200E4D3D4 /* Rhombus.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		5C124A362B91BC53005250CC /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		5C124A382B91BC57005250CC /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		5C124A3B2B91BC57005250CC /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		5CEE7F4C2B91C18200E4D3D4 /* Rhombus.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Rhombus.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -52,6 +54,7 @@
 			isa = PBXGroup;
 			children = (
 				5C124A342B91BC53005250CC /* Practise2App.swift */,
+				5CEE7F4C2B91C18200E4D3D4 /* Rhombus.swift */,
 				5C124A362B91BC53005250CC /* ContentView.swift */,
 				5C124A382B91BC57005250CC /* Assets.xcassets */,
 				5C124A3A2B91BC57005250CC /* Preview Content */,
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5CEE7F4D2B91C18200E4D3D4 /* Rhombus.swift in Sources */,
 				5C124A372B91BC53005250CC /* ContentView.swift in Sources */,
 				5C124A352B91BC53005250CC /* Practise2App.swift in Sources */,
 			);
